@@ -23,8 +23,7 @@ $ firefox index.html
 ```
 
 # Square City & Sun 
-![Image of Square City]
-(recanvas/Square_city_sun.png)
+![](images/Square_city_sun.png)
 
 # Instructions
 You can draw a reactangle on the canvas by dragging the mouse on the drawing area. The color of the rectangle is chosen randomly, but the dimensions of the rectangle is decided by the amount of dragging performed. Once a rectangle is created you can go on creating as much more of these you want. To clear the rectangle just 'double-click' the rectangle.
